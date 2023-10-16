@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Yazılıma İlk Adım Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](figures/github.png)
+![github](https://patika-cohorts-prod.s3-eu-central-1.amazonaws.com/cohorts/yazilima-ilk-adim-frontend-gelistirme/_9qlp-cohorts-cover)
 
 ## Installation
 
